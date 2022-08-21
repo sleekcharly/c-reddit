@@ -1,0 +1,17 @@
+-- create server flder for our project
+
+-- initialze project with "npm init -y"
+
+-- setup typescript "yarn add -D @types/node typescript
+
+-- install ts-node "yarn add -D ts-node"
+
+-- create tsconfig file by running the following code: "npx tsconfig.json"
+
+-- add a new script in package.json file for ts-node
+
+-- add a new script in package.json to watch for changes in files directory
+
+-- install nodemon to enable the server restart once any hchanges are made to any existing file. "yarn add -D nodemon"
+
+-- add a new script for nodemon in package.json.
